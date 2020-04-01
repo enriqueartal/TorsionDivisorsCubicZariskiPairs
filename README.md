@@ -1,6 +1,11 @@
 # TorsionDivisorsCubicZariskiPairs
 Computations for the *Torsion divisors of plane curves with maximal flexes and Zariski pairs*
 
-It  can be checked via Binder
+There are several folders:
+- ExistenceOfCurves. It gives the details of Proposition 3.11.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master?filepath=torsion.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master?filepath=ExistenceOfCurves%2Ftorsion.ipynbb)
+
+
+
+Use binder for verifications.
