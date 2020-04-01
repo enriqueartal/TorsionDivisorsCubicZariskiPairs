@@ -6,6 +6,9 @@ There are several folders:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master?filepath=ExistenceOfCurves%2Ftorsion.ipynbb)
 
+- Triangles. 
+   - One of the groups of Proposition 4.3
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master?filepath=Triangles%2FCubicTriangle1.ipynb)
 
 Use binder for verifications.
