@@ -1,6 +1,8 @@
 # TorsionDivisorsCubicZariskiPairs
 Computations for the *Torsion divisors of plane curves with maximal flexes and Zariski pairs*
 
+Still alpha versions!!!
+
 There are several folders:
 - ExistenceOfCurves. It gives the details of Proposition 3.11.
 
