@@ -4,16 +4,16 @@ Computations for the *Torsion divisors of plane curves with maximal flexes and Z
 Still alpha versions!!!
 
 There are several folders:
-- ExistenceOfCurves. It gives the details of Proposition 3.11.
+- ExistenceOfCurves. It gives the details of Proposition 3.14.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master?filepath=ExistenceOfCurves%2Ftorsion.ipynb)
 
 - Triangles. 
-   - One of the groups of Proposition 4.3
+   - Group ![G_1](https://render.githubusercontent.com/render/math?math=G_1) of Proposition 4.3
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master?filepath=Triangles%2FCubicTriangle1.ipynb)
 
-   - The other group of Proposition 4.3
+   - Group ![G_2](https://render.githubusercontent.com/render/math?math=G_2) of Proposition 4.3
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master?filepath=Triangles%2FCubicTriangle2.ipynb)
 
