@@ -1,6 +1,6 @@
-#FROM sagemath/sagemath:9.0
-FROM sagemathinc/cocalc:latest
+FROM sagemath/sagemath-dev:latest
 
-# Make sure the contents of the repository is in ${HOME}
-COPY --chown=sage:sage . /home/sage
-WORKDIR "/home/sage/"
+RUN sage -pip install jupyterlab
+
+# Copy the contents of the repo in ${HOME}
+COPY --chown=sage:sage . ${HOME}
