@@ -17,4 +17,3 @@ dependencies:
   # https://github.com/conda-forge/sage-feedstock/blob/main/recipe/meta.yaml
   # for the things that are included in "sage" but that might be missing from
   # "sagelib".
-  - sirocco
