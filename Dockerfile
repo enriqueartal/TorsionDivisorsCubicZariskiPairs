@@ -1,4 +1,4 @@
-FROM sagemat'hinc/cocalc:latest
+FROM sagemathinc/cocalc:latest
 
 RUN sage -pip install jupyterlab
 
