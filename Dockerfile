@@ -2,6 +2,7 @@ FROM sagemathinc/cocalc:latest
 
 
 #USER root
+USER sage
 RUN sage -i sirocco
 RUN sage -pip install jupyterlab
 #USER sage
