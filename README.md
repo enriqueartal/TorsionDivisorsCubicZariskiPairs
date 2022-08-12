@@ -25,4 +25,4 @@ There are several folders:
 
 Use binder for verifications.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/sagedev)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master)
