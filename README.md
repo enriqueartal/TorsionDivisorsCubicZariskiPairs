@@ -18,9 +18,12 @@ You can browse thorugh several folders:
 <!--[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/sagedev?filepath=9torsion%2FCubicArithmetic9.ipynb)-->
 
 
-You can download the files or use binder for verifications. If you encounter an error, try again.
+You can:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master)
+- Download the files and use a <kbd>Sagemath</kbd> installation; note that <kbd>sirocco</kbd> optional package (Miguel Marco and Marcos Rodríguez) must be installed for the files in the folder `Triangles^.
+- Use binder 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/TorsionDivisorsCubicZariskiPairs/master) for verifications. Sometimes the first time you use it an error may occur, try again.
+
 
 Thanks to the team of [sage-binder-env](https://github.com/sagemath/sage-binder-env), Nicolas M. Thiéry  and E. Madison Bray, and to the 
 team of <kbd>Sagemath</kbd> in [conda-forge](https://github.com/conda-forge/sage-feedstock), Julian Rüth and Fernando Isuru.
