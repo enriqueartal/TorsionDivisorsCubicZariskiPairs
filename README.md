@@ -1,5 +1,5 @@
 # TorsionDivisorsCubicZariskiPairs
-Computations for the *Torsion divisors of plane curves with maximal flexes and Zariski pairs*, joint paper of E. Artal, S. Bannai, T. Shirane and H. Tokunaga, to appear in *Math. Nachr.*, available at [<kbd>arXiv:2002.00279</kbd>]https://arxiv.org/abs/2005.12673)
+Computations for the *Torsion divisors of plane curves with maximal flexes and Zariski pairs*, joint paper of E. Artal, S. Bannai, T. Shirane and H. Tokunaga, to appear in *Math. Nachr.*, available at [<kbd>arXiv:2002.00279</kbd>](https://arxiv.org/abs/2005.12673)
 
 You can browse thorugh several folders:
 - ExistenceOfCurves. It gives the details of Proposition 3.14.
